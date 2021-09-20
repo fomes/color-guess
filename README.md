@@ -1,6 +1,6 @@
 # Color Guess Project
 
-#### [DEMO](https://fomes.github.io/color.guess)
+#### [DEMO](https://fomes-color-guess.netlify.app/)
 
 Front-end code practice. We can learn how to manipulate DOM by JavaScript.
 
